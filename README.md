@@ -8,7 +8,10 @@ Repository for implementations of everything i learn while revising all the AI a
 * Inference Optimizations
 * Fine Tuning Strategies
 * LLMs from scratch (rasbt)
+* GPT2
+* BERT
 * Llama
 * Mixtral
+
 
 
